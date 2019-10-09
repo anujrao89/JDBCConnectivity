@@ -76,7 +76,3 @@ find below the path:-
 https://github.com/anujrao89/JDBCConnectivity/tree/master/JDBC_CONNECTIVITY/src
 ```
 
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
