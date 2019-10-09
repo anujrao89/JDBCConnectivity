@@ -1,4 +1,4 @@
-# Project Title
+# JDBC MYSQL Connectivity
 
 Connecting to MYSQL through Java using JDBC
 
